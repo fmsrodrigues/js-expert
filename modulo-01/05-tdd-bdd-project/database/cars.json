@@ -1,1 +1,16 @@
-[{"id":"fc6fcc4a-cfb0-4b77-be2c-64e42f421792","name":"Durango","releaseYear":2023,"available":true,"gasAvailable":true},{"id":"15cedb88-876d-4e3f-a56a-efd3d200af15","name":"Model T","releaseYear":2022,"available":true,"gasAvailable":true}]
+[
+    {
+        "id": "fc6fcc4a-cfb0-4b77-be2c-64e42f421792",
+        "name": "Durango",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "15cedb88-876d-4e3f-a56a-efd3d200af15",
+        "name": "Model T",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    }
+]
